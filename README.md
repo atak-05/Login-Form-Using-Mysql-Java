@@ -6,7 +6,8 @@ It has many basic design component.
 Its very basic but its very useful
 
 ## Folder Structure
-
+> Images
+![](jdbc\img\loginInput.png)
 
 The workspace contains two folders by default, where:
 `src`:
