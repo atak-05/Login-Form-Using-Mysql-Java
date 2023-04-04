@@ -6,8 +6,20 @@ It has many basic design component.
 Its very basic but its very useful
 
 ## Folder Structure
-> Images
-![Login Filled](https://raw.githubusercontent.com/atak-05/Login-Form-Using-Mysql-Java/master/img/loginInput.png)
+
+> 1.step
+<img src="https://raw.githubusercontent.com/atak-05/Login-Form-Using-Mysql-Java/master/img/loginpage.png" width ="300">
+
+> 2.step
+<img src="https://raw.githubusercontent.com/atak-05/Login-Form-Using-Mysql-Java/master/img/loginInput.png" width ="300">
+
+> 3.step
+<img src="https://raw.githubusercontent.com/atak-05/Login-Form-Using-Mysql-Java/master/img/openingPage.png" width ="300">
+
+
+> Note : This is tables in sql
+
+
 
 The workspace contains two folders by default, where:
 `src`:
