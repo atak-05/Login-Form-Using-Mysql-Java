@@ -7,7 +7,7 @@ Its very basic but its very useful
 
 ## Folder Structure
 > Images
-![](jdbc\img\loginInput.png)
+![Login Filled](https://raw.githubusercontent.com/atak-05/Login-Form-Using-Mysql-Java/master/img/loginInput.png)
 
 The workspace contains two folders by default, where:
 `src`:
